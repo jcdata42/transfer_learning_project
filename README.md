@@ -27,7 +27,7 @@ The provided **sample dataset** is not intended for training but to give an idea
 ## **Bonus Challenges**
 - Test your model on additional datasets for generalization.
 - Compare tokenization techniques.
-- Deploy your model for real-time sentiment prediction via a web interface.
+- Deploy your model for real-time sentiment prediction via a web interface. You can view an example at [this webpage](https://jcdata42.github.io/sentiment_analysis/).
 
 ## **Note on Fine-Tuning**
 **Fine-tuning pretrained models** is a critical part of this project. By adjusting hyperparameters and training on your specific dataset, you can improve model performance and efficiency.
